@@ -11,8 +11,13 @@ This is a special `.github` repository that serves as the central hub for team i
 This repository contains:
 
 - **Community Health Files**: Default community standards that apply across all organization repositories
-- **Organization Profile**: Information displayed on the organization's GitHub profile page
-- **Workflow Templates**: Reusable GitHub Actions workflows for the organization
+  - [Code of Conduct](CODE_OF_CONDUCT.md)
+  - [Contributing Guidelines](CONTRIBUTING.md)
+  - [Security Policy](SECURITY.md)
+  - [Support Resources](SUPPORT.md)
+- **Issue Templates**: Standardized templates for bug reports and feature requests
+- **Pull Request Template**: Consistent PR structure across all repositories
+- **Organization Profile**: Information displayed on the organization's GitHub profile page ([profile/README.md](profile/README.md))
 - **Team Documentation**: Guidelines and resources for team members
 
 ## Organization Overview
